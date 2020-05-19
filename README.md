@@ -1,0 +1,2 @@
+# Bluetooth-test
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/60c6313a5228461b8394ad9ef4519a06)](https://app.codacy.com/manual/Victorgpz/Bluetooth-test?utm_source=github.com&utm_medium=referral&utm_content=Victorgpz/Bluetooth-test&utm_campaign=Badge_Grade_Dashboard)
